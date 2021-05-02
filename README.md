@@ -1,4 +1,4 @@
-Hi, I’m @Spencer-Grady
+# Spencer Grady
   I am a mechanical engineering graduate currently pursuing a masters degree in computer engineering. 
  
   I have always enjoyed learning new things and diving deeper into the areas that peak my interest. 
